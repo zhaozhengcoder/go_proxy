@@ -3,6 +3,8 @@
 *.dll
 *.so
 *.dylib
+nb
+epoll_event
 
 # Test binary, build with `go test -c`
 *.test
@@ -13,4 +15,4 @@
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
 
-.idea/
+.vscode/
