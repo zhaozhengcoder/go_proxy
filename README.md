@@ -97,3 +97,12 @@ https://github.com/cw1997/NATBypass/releases
 
 # TODO
 - UDP协议的转发支持
+
+
+## 关于网络测试的工具
+
+```
+nc -l 6666 # 监听本地6666端口
+
+nc 127.0.0.1 6666 #和6666端口建立连接 
+```
